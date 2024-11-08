@@ -1,0 +1,7 @@
+com\miumg\edu\gt\telegrambot\telegrambotchat\model\ErrorLog.class
+com\miumg\edu\gt\telegrambot\telegrambotchat\model\ChatMessage.class
+com\miumg\edu\gt\telegrambot\telegrambotchat\repository\ChatmenssageRepository.class
+com\miumg\edu\gt\telegrambot\telegrambotchat\model\UserSession.class
+com\miumg\edu\gt\telegrambot\telegrambotchat\TelegrambotchatApplication.class
+com\miumg\edu\gt\telegrambot\telegrambotchat\controller\TelegramBotController.class
+com\miumg\edu\gt\telegrambot\telegrambotchat\service\TelegramBotService.class
